@@ -651,10 +651,10 @@ img {
   line-height: calc(20 / 16);
   color: rgba(255, 255, 255, 0.6);
 }
-.subscription-input:hover,
+/* .subscription-input:hover,
 .subscription-input:focus {
   border-color: var(--accent-color);
-}
+} */
 .subscription-btb {
   width: 200px;
   height: 50px;
